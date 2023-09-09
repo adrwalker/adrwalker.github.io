@@ -3,8 +3,8 @@ layout: post
 title: Nations of Hiber
 ---
 
-_Tower Defense game for the web. Made in RPG Maker MZ_
-<img src="/public/NoH_screenshot_01.png" alt="Tower Defense game for the web. Made in RPG Maker MZ" width="50%"/>
+<small style="font-size: 50%;">_Tower Defense game for the web. Made in RPG Maker MZ_</small>
+<img src="/public/NoH_screenshot_01.png" alt="Tower Defense game for the web. Made in RPG Maker MZ" width="75%"/>
 Hibernation season approaches once again.
 
 But the forest is closing in, shrunken each year by foreign invaders. Desperate times have brought an unlikely alliance: the Bear Nation and the Bee Nation are working together!
