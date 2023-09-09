@@ -22,7 +22,7 @@ title: VisionBreak
 tagline: "Official Website"
 description: "A Texas-based indie game studio"
 url: https://visionbreak.dev
-baseurl: https://visionbreak.dev/
+baseurl: /
 
 author:
   name: "Mark Otto"
