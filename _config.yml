@@ -21,7 +21,7 @@ relative_permalinks: false
 title: VisionBreak
 tagline: "Official Website"
 description: "A Texas-based indie game studio"
-url: http://hyde.getpoole.com
+url: https://visionbreak.dev
 baseurl: /
 
 author:
