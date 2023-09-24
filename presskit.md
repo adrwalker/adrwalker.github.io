@@ -1,4 +1,9 @@
-# Sunsear - Official Presskit
+---
+layout: page
+title: Presskit
+---
+
+![A hand extends through the laptop monitor to shake yours](/public/presskit-header.jpg)
 
 ## Name
 
