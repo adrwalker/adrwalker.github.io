@@ -21,11 +21,11 @@ Sunsear: Avian Combat: Mk I is a vertical scrolling shoot-em-up and roguelite ga
 
 ## Gameplay description and setting & synopsis
 
-Aspired by **_Tyrian 2000_**, the 90s story-based shooter, Sunsear: Avian Combat: Mk I takes the story-segmented, vertical-scrolling action and applies this engaging formula to the thrilling adventures of Arino Fyre, a bird with cybernetic implants granting him the dexterity and intellect of a human.
+Aspired by _Tyrian 2000_, the 90s story-based shooter, Sunsear: Avian Combat: Mk I takes the story-segmented, vertical-scrolling action and applies this engaging formula to the thrilling adventures of Arino Fyre, a bird with cybernetic implants granting him the dexterity and intellect of a human.
 
-There are 8 stages which take places in the many different biospheres in South America. Arino’s ship, the **_Sunsear IV_**, is equipped with an arsenal that transforms the metallic aircraft and machines of the evil Soledad World Order into floating “seeds”. Aborption allows the Sunsear IV to gain access to new, more powerful abilities.
+There are 8 stages which take places in the many different biospheres in South America. Arino’s ship, the _Sunsear IV_, is equipped with an arsenal that transforms the metallic aircraft and machines of the evil Soledad World Order into floating “seeds”. Aborption allows the Sunsear IV to gain access to new, more powerful abilities.
 
-Along with these abilities, crates and other Soledad equipment can grant the Sunsear IV temporary abilities like the titanic **_Mega Laser_** or the impenetrable **_Wrecking Shield_**.
+Along with these abilities, crates and other Soledad equipment can grant the Sunsear IV temporary abilities like the titanic _Mega Laser_ or the impenetrable _Wrecking Shield_.
 
 ## **Links to download visual assets.**
 
