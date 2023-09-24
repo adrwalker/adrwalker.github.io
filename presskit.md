@@ -34,4 +34,4 @@ Along with these abilities, crates and other Soledad equipment can grant the Sun
 
 ## **Links to download visual assets.**
 
-[Visual Assets of Sunsear: Avian Combat](/press/sunsear_presskit_7_29_2021.zip)
+[Visual Assets of Sunsear: Avian Combat](/public/press/sunsear_presskit_7_29_2021.zip)
