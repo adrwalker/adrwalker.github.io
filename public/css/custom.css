@@ -2,3 +2,28 @@
     font-size: 25%;
     color: #999;
 }
+
+/*
+ * Twitter Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+ .twitter-feed {
+    text-align: center;
+    padding: 1rem 1rem;
+    color: rgba(255,255,255,.5);
+    background-color: transparent;
+  }
+  @media (min-width: 48em) {
+    .twitter-feed {
+      position: fixed;
+      top: 0;
+      left: auto;
+      right: 0;
+      bottom: 0;
+      width: 18rem;
+      text-align: right;
+    }
+  }
