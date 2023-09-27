@@ -24,7 +24,9 @@
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
-      {% endfor %}       
+      {% endfor %} 
+      
+      <a class="twitter-timeline" href="https://twitter.com/VisionBreakDev?ref_src=twsrc%5Etfw">Tweets by VisionBreakDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       
       <hr>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
