@@ -5,7 +5,7 @@ title: "Sunsear: Avian Combat"
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YDqDhlCfMnw?si=9zbGFX1ntGj0Q_SW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you are a big fan of the classic arcade shoot 'em ups, this is one you'll love. Its minimalist art style will help you focus on protecting your ship and dominating the skies.
+Attention shoot-'em-up aficionados! Dive into an arcade experience reminiscent of the classics, but with a sleek twist. Our minimalist art design ensures zero distractions, letting you channel your inner ace pilot to rule the skies and defend your ship with unparalleled precision. Gear up and dominate!
 
 ## GAME FEATURES
 
