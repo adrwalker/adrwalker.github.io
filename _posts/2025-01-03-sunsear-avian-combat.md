@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sunsear: Avian Combat (v1.0 Open Beta)"
+title: "Sunsear (v1.0 Open Beta)"
 ---
 
 <iframe width="560" height="315" src="https://youtu.be/LO_LyCuMHwA?si=2XDIwn9cldTsYLej" title="Sunsear: Avian Combat Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
