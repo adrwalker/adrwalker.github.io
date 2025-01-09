@@ -3,7 +3,7 @@ layout: post
 title: "Sunsear (v1.0 Open Beta)"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YDqDhlCfMnw?si=9zbGFX1ntGj0Q_SW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LO_LyCuMHwA?si=i6ytilSpJ2FMH6UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Currently in Beta**
 
